@@ -1,5 +1,83 @@
 {
-  "users": [],
+  "users": [
+    {
+      "name": "Administrador",
+      "email": "adm@dtm.com",
+      "contact": "0800 100 500",
+      "password": 123456,
+      "colection": [
+        {
+          "name": "The Dark Side Of The Moon",
+          "id": 1,
+          "band": "Pink Floyd",
+          "price": 100.0,
+          "img": "https://m.media-amazon.com/images/I/61xIlFDKtGL._AC_SX425_.jpg",
+          "year": 1973
+        },
+        {
+          "name": "Sobrevivendo no Inferno",
+          "id": 6,
+          "band": "Racionais MC's",
+          "price": 500.0,
+          "img": "https://lojasaraiva.vteximg.com.br/arquivos/ids/1527061/1000599856.jpg?v=637004119803100000",
+          "year": 1997
+        },
+        {
+          "name": "Thriller",
+          "id": 9,
+          "band": "Michael jackson",
+          "price": 110.9,
+          "img": "https://m.media-amazon.com/images/I/81ogsUqshzL._AC_SL1500_.jpg",
+          "year": 1982
+        }
+      ],
+      "trade": [
+        {
+          "name": "The Wall",
+          "id": 2,
+          "band": "Pink Floyd",
+          "price": 175.0,
+          "img": "https://armazemdovinil.com/wp-content/uploads/2015/05/8177-cacehL._SL1500_.jpg",
+          "year": 1979
+        },
+        {
+          "name": "Kind of Blue",
+          "id": 3,
+          "band": "Miles Davis",
+          "price": 175.5,
+          "img": "https://m.media-amazon.com/images/I/81CP1j-zprL._AC_SY355_.jpg",
+          "year": 1959
+        },
+        {
+          "name": "Clube da Esquina",
+          "id": 4,
+          "band": "Milton Nascimento & Lô Borges",
+          "price": 155.5,
+          "img": "https://http2.mlstatic.com/D_NQ_NP_657194-MLB48213034516_112021-O.webp",
+          "year": 1972
+        }
+      ],
+      "desires": [
+        {
+          "name": "Sgt. Pepper's Lonely Hearts Club band",
+          "id": 10,
+          "band": "The Beatles",
+          "price": 210.9,
+          "img": "https://m.media-amazon.com/images/I/61WjF3upf2L._AC_SX466_.jpg",
+          "year": 1967
+        },
+        {
+          "name": "Blow by Blow",
+          "id": 16,
+          "band": "Jeff Beck",
+          "price": 175.0,
+          "img": "https://i.discogs.com/0fDUgNKrFFBqGLLYNRZzDS2VzMQQlp6M0xOVs8n4oA4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWltYWdlcy9SLTY4/MzIzMi0xMTY1ODY2/NDI4LmpwZWc.jpeg",
+          "year": 1975
+        }
+      ],
+      "id": 0
+    }
+  ],
   "disks": [
     {
       "name": "The Dark Side Of The Moon",
